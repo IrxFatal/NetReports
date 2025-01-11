@@ -1,0 +1,8 @@
+name: NetReports
+version: '${project.version}'
+main: dev.irxfatal.netreports.NetReports
+api-version: '1.16'
+prefix: NetReps
+authors: [IrxFatal]
+description: 1
+website: irxfatal.dev

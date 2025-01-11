@@ -1,0 +1,4 @@
+use-api: false
+api-endpoint: "http://example.com/api/reports"
+database:
+  path: "plugins/netreports/reports.db"
